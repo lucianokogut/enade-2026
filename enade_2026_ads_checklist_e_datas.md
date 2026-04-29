@@ -52,3 +52,13 @@ Isso vem do critério de habilitação dos concluintes:
 
 👉 Portanto, a data limite é:
 ***31/08/2026***
+
+---
+
+### ✅ Resumo final (ADS / CST)
+
+| Situação                     | Data limite        |
+| ---------------------------- | ------------------ |
+| Cadastro de **concluintes**  | **27/05/2026**     |
+| Cadastro de **ingressantes** | **30/09/2026**     |
+| Colação de grau sem ENADE    | **até 31/08/2026** |
