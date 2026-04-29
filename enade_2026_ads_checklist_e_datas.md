@@ -32,6 +32,66 @@
 👉 Portanto, a data limite efetiva de cadastro (considerando retificação) é:
 ***30/09/2026***
 
+#### 🔴 Mudança na operacionalização do ingressante
+
+##### 1. O que diz o Edital 2026 (item 3.1.4)
+
+O edital estabelece que a regularidade do ingressante será atribuída mediante o preenchimento do Questionário do Ingressante.
+
+👉 Condição única de regularidade (2026):
+- Preencher o Questionário do Ingressante dentro do prazo
+
+E reforça:
+- Ingressante não faz prova
+- Regularidade depende ativamente do estudante
+
+##### 2. Como era no ciclo anterior (padrão histórico do ENADE)
+
+Com base na regulamentação anterior (especialmente Inep via Portaria Normativa nº 840/2018 e replicações até 2023/2024), a regra prática era:
+
+- O ingressante era inscrito pela IES
+- O ingressante era dispensado da prova
+- A regularidade era automática, desde que estivesse devidamente inscrito
+
+Em muitos ciclos, o Questionário do Ingressante existia, mas:
+- Tinha caráter mais diagnóstico
+- Não era condição efetiva de regularidade com o mesmo peso operacional atual
+
+##### 3. Mudança prática (o que realmente mudou)
+
+🔴 **Antes (ciclos anteriores)**
+- Regularidade = ato da IES
+- Foco: inscrição correta
+- Estudante: papel passivo
+
+🟢 **Agora (ENADE 2026)**
+- Regularidade = ato do estudante
+- Foco: preenchimento do questionário
+- Estudante: papel ativo e obrigatório
+
+##### 4. Interpretação técnica da mudança
+
+A mudança não altera o conceito de dispensa da prova, mas altera:
+
+- **Natureza da regularidade**
+  - Antes: administrativa (IES)
+  - Agora: procedimental + individual (estudante)
+- **Responsabilização**
+  - Transferência parcial de responsabilidade da IES para o estudante
+- **Risco operacional**
+  - Aumenta significativamente, porque o aluno pode ser inscrito corretamente e ainda assim ficar irregular
+
+##### 5. Impacto prático para a coordenação
+
+Essa mudança cria um novo ponto crítico:
+
+👉 Ingresso ≠ regularidade garantida
+
+Agora é necessário:
+- Monitorar preenchimento do questionário
+- Cobrar ativamente os ingressantes
+- Registrar evidências de acompanhamento
+
 ---
 
 ### 📌 Colação de Grau sem necessidade de ENADE
