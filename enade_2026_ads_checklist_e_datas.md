@@ -1,12 +1,16 @@
+<a id="topo"></a>
 # 📘 ENADE 2026 – CST em Análise e Desenvolvimento de Sistemas (ADS)
 
+<a id="datas-limites"></a>
 ## ✅ 1. Datas Limites (Resumo Objetivo)
 
+<a id="concluintes"></a>
 ### 📌 Concluintes
 - **Período de inscrição:** 27/04/2026 a 18/05/2026
 - **Retificação:** 19/05/2026 a 27/05/2026
 - **Data limite final:** **27/05/2026**
 
+<a id="datas-cadastro-concluintes"></a>
 #### Datas para cadastro dos concluintes no Sistema Enade
 - Inscrição (cadastro) dos concluintes:
   - **27/04/2026 a 18/05/2026**
@@ -18,11 +22,13 @@
 
 ---
 
+<a id="ingressantes"></a>
 ### 📌 Ingressantes
 - **Período de inscrição:** 17/08/2026 a 17/09/2026
 - **Retificação:** 18/09/2026 a 30/09/2026
 - **Data limite final:** **30/09/2026**
 
+<a id="datas-cadastro-ingressantes"></a>
 #### Datas para cadastro dos ingressantes no Sistema Enade
 - Inscrição (cadastro) dos ingressantes:
   - **17/08/2026 a 17/09/2026**
@@ -32,8 +38,10 @@
 👉 Portanto, a data limite efetiva de cadastro (considerando retificação) é:
 ***30/09/2026***
 
+<a id="mudanca-operacionalizacao-ingressante"></a>
 #### 🔴 Mudança na operacionalização do ingressante
 
+<a id="edital-2026-item-3-1-4"></a>
 ##### 1. O que diz o Edital 2026 (item 3.1.4)
 
 O edital estabelece que a regularidade do ingressante será atribuída mediante o preenchimento do Questionário do Ingressante.
@@ -45,6 +53,7 @@ E reforça:
 - Ingressante não faz prova
 - Regularidade depende ativamente do estudante
 
+<a id="ciclo-anterior"></a>
 ##### 2. Como era no ciclo anterior (padrão histórico do ENADE)
 
 Com base na regulamentação anterior (especialmente Inep via Portaria Normativa nº 840/2018 e replicações até 2023/2024), a regra prática era:
@@ -57,6 +66,7 @@ Em muitos ciclos, o Questionário do Ingressante existia, mas:
 - Tinha caráter mais diagnóstico
 - Não era condição efetiva de regularidade com o mesmo peso operacional atual
 
+<a id="mudanca-pratica"></a>
 ##### 3. Mudança prática (o que realmente mudou)
 
 🔴 **Antes (ciclos anteriores)**
@@ -69,6 +79,7 @@ Em muitos ciclos, o Questionário do Ingressante existia, mas:
 - Foco: preenchimento do questionário
 - Estudante: papel ativo e obrigatório
 
+<a id="interpretacao-tecnica"></a>
 ##### 4. Interpretação técnica da mudança
 
 A mudança não altera o conceito de dispensa da prova, mas altera:
@@ -81,6 +92,7 @@ A mudança não altera o conceito de dispensa da prova, mas altera:
 - **Risco operacional**
   - Aumenta significativamente, porque o aluno pode ser inscrito corretamente e ainda assim ficar irregular
 
+<a id="impacto-pratico"></a>
 ##### 5. Impacto prático para a coordenação
 
 Essa mudança cria um novo ponto crítico:
@@ -92,6 +104,7 @@ Agora é necessário:
 - Cobrar ativamente os ingressantes
 - Registrar evidências de acompanhamento
 
+<a id="sintese-ingressantes"></a>
 ##### 6. Síntese objetiva para os Ingressantes
 
 | Aspecto      | Ciclos anteriores            | ENADE 2026               |
@@ -106,6 +119,7 @@ Agora é necessário:
 
 ---
 
+<a id="colacao-sem-enade"></a>
 ### 📌 Colação de Grau sem necessidade de ENADE
 - **Data limite:** **31/08/2026**
 
@@ -113,6 +127,7 @@ Agora é necessário:
 - Colação até 31/08/2026 → dispensa do ENADE
 - Colação após 31/08/2026 → obrigatoriedade de participação no ENADE
 
+<a id="data-limite-colacao"></a>
 #### Data limite para colação de grau sem precisar fazer o ENADE
 Isso vem do critério de habilitação dos concluintes:
 
@@ -127,6 +142,7 @@ Isso vem do critério de habilitação dos concluintes:
 
 ---
 
+<a id="resumo-final"></a>
 ### ✅ Resumo final (ADS / CST)
 
 | Situação                     | Data limite        |
@@ -137,10 +153,12 @@ Isso vem do critério de habilitação dos concluintes:
 
 ---
 
+<a id="checklist-operacional"></a>
 ## 🧭 2. Checklist Operacional – Coordenação de Curso
 
 ---
 
+<a id="fase-1"></a>
 ### 🔹 FASE 1 — Preparação Inicial
 📅 27/04 a 18/05/2026
 
@@ -156,6 +174,7 @@ Isso vem do critério de habilitação dos concluintes:
 
 ---
 
+<a id="fase-2"></a>
 ### 🔹 FASE 2 — Cadastro dos Concluintes (CRÍTICA)
 📅 27/04 a 18/05/2026  
 🔁 Retificação: 19/05 a 27/05/2026
@@ -176,6 +195,7 @@ Isso vem do critério de habilitação dos concluintes:
 
 ---
 
+<a id="fase-3"></a>
 ### 🔹 FASE 3 — Acompanhamento dos Concluintes
 📅 01/06 a 29/11/2026
 
@@ -189,6 +209,7 @@ Isso vem do critério de habilitação dos concluintes:
 
 ---
 
+<a id="fase-4"></a>
 ### 🔹 FASE 4 — Ponto de Corte para Dispensa do ENADE
 📅 Até 31/08/2026
 
@@ -204,6 +225,7 @@ Isso vem do critério de habilitação dos concluintes:
 
 ---
 
+<a id="fase-5"></a>
 ### 🔹 FASE 5 — Cadastro dos Ingressantes
 📅 17/08 a 17/09/2026  
 🔁 Retificação: 18/09 a 30/09/2026
@@ -218,6 +240,7 @@ Isso vem do critério de habilitação dos concluintes:
 
 ---
 
+<a id="fase-6"></a>
 ### 🔹 FASE 6 — Prova do ENADE
 📅 29/11/2026
 
@@ -227,6 +250,7 @@ Isso vem do critério de habilitação dos concluintes:
 
 ---
 
+<a id="fase-7"></a>
 ### 🔹 FASE 7 — Pós-Prova e Regularidade
 📅 03/12/2026 a 11/01/2027
 
@@ -239,6 +263,7 @@ Isso vem do critério de habilitação dos concluintes:
 
 ---
 
+<a id="pontos-criticos"></a>
 ## 🚨 3. Pontos Críticos (Resumo Rápido)
 
 - **27/05/2026** → fim do cadastro de concluintes
@@ -248,6 +273,7 @@ Isso vem do critério de habilitação dos concluintes:
 
 ---
 
+<a id="boas-praticas"></a>
 ## 💡 4. Boas Práticas Recomendadas
 
 - Manter planilha de controle paralela
