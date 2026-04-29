@@ -92,6 +92,18 @@ Agora é necessário:
 - Cobrar ativamente os ingressantes
 - Registrar evidências de acompanhamento
 
+##### 6. Síntese objetiva para os Ingressantes
+
+| Aspecto      | Ciclos anteriores            | ENADE 2026               |
+| ------------ | ---------------------------- | ------------------------ |
+| Prova        | Não realiza                  | Não realiza              |
+| Inscrição    | Obrigatória (IES)            | Obrigatória (IES)        |
+| Questionário | Secundário                   | Obrigatório              |
+| Regularidade | Automática após inscrição    | Depende do estudante     |
+| Risco        | Baixo                        | Alto                     |
+
+***TURMA 2026/1*** **torna-se obrigada a preencher o Questionário até 17/09/2026**, sem considerar a data de retificação
+
 ---
 
 ### 📌 Colação de Grau sem necessidade de ENADE
